@@ -3,3 +3,6 @@ background: linear-gradient( rgb(255, 82, 82),rgba(255, 255, 255, 0.937),rgb(159
 background-repeat: no-repeat;
 background-attachment: fixed;
 }
+link{
+    color: red;
+}
