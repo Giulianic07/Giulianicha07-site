@@ -1,0 +1,5 @@
+body {
+background: linear-gradient( red, white,blue ) ;
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
